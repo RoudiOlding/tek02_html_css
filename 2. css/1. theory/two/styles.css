@@ -1,0 +1,16 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #FBFBFB;
+}
+
+h1, h2 {
+    color: #631D76;
+}
+
+p {
+    color: #9E4770;
+}
+
+/* Check this site to find good colors: https://coolors.co */
