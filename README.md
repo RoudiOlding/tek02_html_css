@@ -1,1 +1,3 @@
-# tek02_html_css
+# The topics here:
+### 1. HTML
+### 2. CSS
